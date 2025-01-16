@@ -19,7 +19,7 @@ Antes de comenzar, asegúrate de tener lo siguiente:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/thermopro-ble-monitor.git
+   git clone https://github.com/fsaldivar/thermopro-ble-monitor.git
    cd thermopro-ble-monitor
    ```
 
